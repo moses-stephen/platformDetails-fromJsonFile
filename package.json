@@ -1,0 +1,22 @@
+{
+  "name": "getplatformdetailsbyitsid",
+  "version": "1.0.0",
+  "description": "to get the platform details from mrsss by its ids",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "eyes": "^0.1.8",
+    "fs": "0.0.1-security",
+    "http": "0.0.1-security",
+    "https": "^1.0.0",
+    "jsonpath": "^1.1.1",
+    "xlsx": "^0.17.5",
+    "xml2js": "^0.4.23",
+    "xml2json": "^0.12.0"
+  }
+}
